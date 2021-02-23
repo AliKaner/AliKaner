@@ -2,11 +2,13 @@
 
 <!--
 **AliKaner/AliKaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Spotify](https://github-readme-two.vercel.app
-)](https://open.spotify.com/user/yz5zn5u5255hv1aesd46lm12v)
+
 
 
 Here are some ideas to get you started:
+
+[![Spotify](https://github-readme-two.vercel.app
+)](https://open.spotify.com/user/yz5zn5u5255hv1aesd46lm12v)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
