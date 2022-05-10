@@ -9,16 +9,15 @@
 <div>
 <img align="left" alt="Unity" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 </div>
-<br />
+<br /><br />
 
-### My Links
-<div>
+### My Links  🕹
+
   <a href="https://www.linkedin.com/in/alikaner/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href = "https://drive.google.com/drive/folders/1acC9w1zWjvUIAnb4FHRqWYIOKBzOrQnJ?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
  </a>
-</div>
 
 <br />
