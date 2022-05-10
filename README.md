@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/alikaner/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href = "https://www.alikaner.games">
+ <a href = "https://drive.google.com/drive/folders/1acC9w1zWjvUIAnb4FHRqWYIOKBzOrQnJ?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
  </a>
 </div>
