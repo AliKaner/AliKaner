@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="HackerRank Badge"/>
  </a>
  
- ### Hobbies 
+ ### Hobbies :ringed_planet:
  <a href = "https://1000kitap.com/Ali_Muad_Dib">
     <img src="https://img.shields.io/badge/Books-red?style=for-the-badge&log" alt="Book Badge"/>
  </a>
