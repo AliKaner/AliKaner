@@ -51,11 +51,6 @@
  <a href = "https://myanimelist.net/animelist/Hankaner1?status=7&order=4&order2=0">
     <img src="https://img.shields.io/badge/MAL-2e51a2?style=for-the-badge&logoColor=white" alt="MyAnimeList Badge"/>
  </a>
- 
- 
- 
- 
- ![Ali Kaner Github Stats](https://github-readme-stats.vercel.app/api?username=AliKaner&show_icons=true&theme=midnight-purple&show_icons=true)
- ![Ali's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKaner&theme=midnight-purple)
+
 
 
