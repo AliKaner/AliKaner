@@ -45,11 +45,11 @@
     <img src="https://img.shields.io/badge/Books-red?style=for-the-badge&log" alt="Book Badge"/>
  </a>
  <a href = "https://steamcommunity.com/id/AliKaner/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Games Badge"/>
  </a>
  
  <a href = "https://myanimelist.net/animelist/Hankaner1?status=7&order=4&order2=0">
-    <img src="https://img.shields.io/badge/MAL-2e51a2?style=for-the-badge&logoColor=white" alt="MyAnimeList Badge"/>
+    <img src="https://img.shields.io/badge/MAL-2e51a2?style=for-the-badge&logoColor=white" alt="Anime Badge"/>
  </a>
 
 
