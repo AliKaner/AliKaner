@@ -49,7 +49,10 @@
  </a>
  
  <a href = "https://myanimelist.net/animelist/Hankaner1?status=7&order=4&order2=0">
-    <img src="https://img.shields.io/badge/MAL-2e51a2?style=for-the-badge&logoColor=white" alt="Anime Badge"/>
+    <img src="https://img.shields.io/badge/MyAnimeList-2e51a2?style=for-the-badge&logoColor=white" alt="Anime Badge"/>
+ </a>
+ <a href = "https://letterboxd.com/Ali_Kaner/">
+    <img src="https://img.shields.io/badge/LetterBox-2e51a2?style=for-the-badge&logoColor=white" alt="Anime Badge"/>
  </a>
 
 
