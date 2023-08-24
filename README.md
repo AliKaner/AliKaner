@@ -28,12 +28,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 
 ### My Links  🕹
 
@@ -42,9 +36,6 @@
  </a>
  <a href = "https://twitter.com/AliKaner4">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
- </a>
-  <a href = "https://www.hackerrank.com/AliKaner">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="HackerRank Badge"/>
  </a>
  </a>
   <a href = "https://alikaner.itch.io/">
@@ -63,7 +54,7 @@
     <img src="https://img.shields.io/badge/MyAnimeList-2e51a2?style=for-the-badge&logoColor=white" alt="Anime Badge"/>
  </a>
  <a href = "https://letterboxd.com/Ali_Kaner/">
-    <img src="https://img.shields.io/badge/LetterBox-2e51a2?style=for-the-badge&logoColor=white" alt="Anime Badge"/>
+    <img src="https://img.shields.io/badge/LetterBox-2e51a2?style=for-the-badge&logoColor=white" alt="LetterBox"/>
  </a>
 
 
