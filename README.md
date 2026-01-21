@@ -1,7 +1,7 @@
 
 ### Now Listening 🎧
+//[![Spotify](https://github-readme-alikaner.vercel.app//api/spotify)](https://open.spotify.com/user/AliKaner)
 
-[![Spotify](https://github-readme-alikaner.vercel.app//api/spotify)](https://open.spotify.com/user/AliKaner)
 <br />
 
 ### Languages and Tools 💻
