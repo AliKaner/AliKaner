@@ -20,8 +20,7 @@ React and Next.js, mostly TypeScript. I like understanding how things work befor
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikaner/)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/Ali_Kaner/)
-[![MAL](https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat-square&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/AliKaner)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/Nerdiston/)
 
 ---
 
