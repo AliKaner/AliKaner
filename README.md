@@ -14,4 +14,5 @@ React and Next.js, mostly TypeScript. I like understanding how things work befor
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/Nerdiston/)
 
 ### Now Playing 🎧
+
 [![Spotify](https://github-readme-alikaner.vercel.app//api/spotify)](https://open.spotify.com/user/AliKaner)
