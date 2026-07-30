@@ -19,4 +19,4 @@ React and Next.js, mostly TypeScript. I like understanding how things work befor
 
 
 ![Top Tracks](https://spotify-readme-card-zeta.vercel.app/api/top-tracks?theme=dracula&time_range=long_term&limit=100)
-![Top Tracks](https://spotify-readme-card-zeta.vercel.app/api/top-tracks?theme=dracula&time_range=medium_term&limit=100)
+![Top Tracks](https://spotify-readme-card-zeta.vercel.app/api/top-tracks?theme=dracula&time_range=short_term&limit=100)
