@@ -16,3 +16,6 @@ React and Next.js, mostly TypeScript. I like understanding how things work befor
 ### Now Playing 🎧
 
 [![Spotify](https://spotify-readme-card-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/AliKaner)
+
+
+![Top Tracks](https://spotify-readme-card-zeta.vercel.app/api/top-tracks?theme=midnight&time_range=long_term&limit=8)
