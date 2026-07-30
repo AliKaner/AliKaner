@@ -16,3 +16,5 @@ React and Next.js, mostly TypeScript. I like understanding how things work befor
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-two.vercel.app//api/spotify)](https://open.spotify.com/user/AliKaner)
+
+[![Spotify](https://github-readme-alikaner.vercel.app//api/spotify)](https://open.spotify.com/user/AliKaner)
