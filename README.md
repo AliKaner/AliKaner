@@ -6,11 +6,6 @@ React and Next.js, mostly TypeScript. I like understanding how things work befor
 [![github repo-contributions](https://mygithubreadme-cards.vercel.app/api/card/SNlLLevM2pmC)](https://mygithubreadme-cards.vercel.app)
 
 
----
-
-**Currently reading**
-
-[Designing Data-Intensive Applications](https://dataintensive.net/) — Martin Kleppmann
 
 ---
 
