@@ -3,10 +3,6 @@
 React and Next.js, mostly TypeScript. I like understanding how things work before reaching for abstractions — and I'm still learning. Game dev background, which shapes how I approach interaction and feedback.
 
 
-[![github repo-contributions](https://mygithubreadme-cards.vercel.app/api/card/SNlLLevM2pmC)](https://mygithubreadme-cards.vercel.app)
-
-
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikaner/)
