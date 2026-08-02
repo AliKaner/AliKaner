@@ -1,6 +1,6 @@
 ### Ali Kaner · Frontend Engineer
 
-React and Next.js, mostly TypeScript. I like understanding how things work before reaching for abstractions — and I'm still learning. Game dev background, which shapes how I approach interaction and feedback.
+React and Next.js, mostly TypeScript. I like understanding how things work before reaching for abstractions and I'm still learning. Game dev background, which shapes how I approach interaction and feedback.
 
 
 ---
